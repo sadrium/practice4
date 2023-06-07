@@ -1,0 +1,1 @@
+WORK_FOLDER_PATH = 'C:\\Users\\Анна\\Desktop\\labs\\2'
